@@ -1,0 +1,7 @@
+[vcenter]
+osi-vcenter.optimaxsi.com
+
+[hosts]
+osi-esx01.optimaxsi.com
+osi-esx02.optimaxsi.com
+osi-esx03.optimaxsi.com
