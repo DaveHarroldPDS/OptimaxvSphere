@@ -5,7 +5,7 @@
     - name: set DNS Servers
       community.vmware.vmware_host_dns_info:
         hostname: osi-vcenter.optimaxsi.com
-        username: administrator@vsphere.local
-        password: jgc1n?dFAK%t=PyKn5O%
+        username: root
+        password: P@ssw0rd
         esxi_hostname: osi-esx01.optimaxsi.com
-
+      delegate_to: localhost
